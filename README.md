@@ -24,3 +24,4 @@ A web based terminal emulator that can be accessed remotely with support for tok
  - iOS (A-shell terminal emulator) - Somewhat functional, everything works except the shell, it could probably be worked around, tested 
  - BSD - should work, untested
 
+![screenshot](poo.png)
